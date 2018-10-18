@@ -1,0 +1,34 @@
+.\ce.o: ..\HARDWARE\ce\ce.c
+.\ce.o: ..\HARDWARE\ce\ce.h
+.\ce.o: ..\SYSTEM\usart\usart.h
+.\ce.o: F:\Keil MDK\ARM\ARMCC\bin\..\include\stdio.h
+.\ce.o: ..\USER\stm32f10x.h
+.\ce.o: ..\CORE\core_cm3.h
+.\ce.o: F:\Keil MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\ce.o: ..\USER\system_stm32f10x.h
+.\ce.o: ..\USER\stm32f10x_conf.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+.\ce.o: ..\USER\stm32f10x.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_bkp.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_can.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_cec.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_crc.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_dac.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_pwr.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_rtc.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_sdio.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\ce.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
+.\ce.o: ..\STM32F10x_FWLib\inc\misc.h
+.\ce.o: ..\HARDWARE\TIM\TIM2.h
